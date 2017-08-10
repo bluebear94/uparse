@@ -10,6 +10,7 @@ A tiny parser combinator library for C++.
 ### Licence
 
 Copyright © 2017 Uruwi
+
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See the LICENCE file for more details.
